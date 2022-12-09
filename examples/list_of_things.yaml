@@ -1,0 +1,10 @@
+list:
+  - name: Apple
+    type: fruit
+    url: apple.com
+  - name: Banana
+    type: fruit
+  - nom: Pear
+    type: fruit
+  - name: Carrot
+    type: vegetable

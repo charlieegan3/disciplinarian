@@ -1,0 +1,5 @@
+checks:
+  - sources:
+      - path: "list_of_things.yaml"
+    policies:
+      - path: "policies"
