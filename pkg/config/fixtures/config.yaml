@@ -1,0 +1,6 @@
+checks:
+  - sources:
+      - path: "config.yaml"
+      - poth: ""
+    policies:
+      - path: "example/disciplinarian"

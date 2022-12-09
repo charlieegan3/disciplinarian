@@ -1,0 +1,5 @@
+checks:
+- sources:
+  - path: ".disciplinarian.yaml"
+  policies:
+  - path: "self/disciplinarian"

@@ -1,0 +1,5 @@
+checksd: # typo
+  - sources:
+      - path: "config.yaml"
+    policies:
+      - path: "self/disciplinarian"
